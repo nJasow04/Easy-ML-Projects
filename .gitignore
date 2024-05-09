@@ -1,0 +1,26 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore large data files
+*.tar.gz
+*.zip
+data/
+
+# Ignore log files
+*.log
+
+# Ignore weights
+*.pth
+
